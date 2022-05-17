@@ -2,6 +2,6 @@
 
 I'm a student who strives be a **Full Stack Engineer**😎
 
-Now,I'm a coding passionate focused on **JavaScript**，specifically **React**. Interested in UI, UX and **Computer Graphic**
+Now, I'm a coding passionate focused on **JavaScript**，specifically **React**. Interested in UI, UX and **Computer Graphic**
 
-Still work hard on my web，it will be completed in the near future
+Still work hard on my [blog](https://whiteling.github.io/)，it will be completed in the near future
