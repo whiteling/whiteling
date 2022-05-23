@@ -1,6 +1,6 @@
 ### Hi! I'm [Huaicheng Zhang](https://whiteling.github.io/) 👉👋👈
 
-I'm a student who strives be a **Full Stack Engineer**😎
+I'm a student who strives be a **Front End Engineer**😎
 
 Now, I'm a coding passionate focused on **JavaScript**，specifically **React**. Interested in UI, UX and **Computer Graphic**
 
